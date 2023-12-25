@@ -10,7 +10,7 @@ blueprint:
         device:
           integration: Xiaomi Gateway 3
           manufacturer: Xiaomi
-          model: lumi.sensor_switch
+          model: ble XMWXKG01LM
     remote_button_short_press:
       name: Single Press
       description: Action to run on single press
