@@ -8,7 +8,7 @@ blueprint:
       description: Mijia Wireless Round Switch to use
       selector:
         device:
-          integration: zha
+          integration: Xiaomi Gateway 3
           manufacturer: LUMI
           model: lumi.sensor_switch
     remote_button_short_press:
