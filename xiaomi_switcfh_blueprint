@@ -8,7 +8,7 @@ blueprint:
       description: Mijia Wireless Round Switch to use
       selector:
         device:
-          integration: Xiaomi Gateway 3
+          integration: xiaomi_gateway3
           manufacturer: Xiaomi
           model: ble XMWXKG01LM
     remote_button_short_press:
